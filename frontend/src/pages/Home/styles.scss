@@ -1,0 +1,32 @@
+.home-container {
+    margin: 30px 20px 15px;
+
+    .card-base {
+        width: 100%;
+        min-height: 80vh;
+        padding: 15px;
+    }
+
+    p {
+        margin: 0;
+    }
+}
+
+.plugs-card {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.plugs-chart {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 80vh;
+    flex-direction: column;
+
+    // h4 {
+    //     margin-top: 15px;
+    // }
+}

@@ -1,0 +1,15 @@
+.navbar-container {
+    height: 70px;
+    width: 100%;
+    background-color: #b5d23b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    h1 {
+        margin: 0;
+        font-weight: bold;
+        color: #f6f6f6;
+    }
+}

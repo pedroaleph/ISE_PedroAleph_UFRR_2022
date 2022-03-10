@@ -1,0 +1,80 @@
+[
+    {
+        "tomada_id": 2,
+        "corrente_mA": 0.00,
+        "tensao_V": 0.00,
+        "tempo_ms": 2
+    },
+    {
+        "tomada_id": 2,
+        "corrente_mA": 18.66,
+        "tensao_V": 0.89,
+        "tempo_ms": 300002
+    },
+    {
+        "tomada_id": 2,
+        "corrente_mA": 18.66,
+        "tensao_V": 0.89,
+        "tempo_ms": 600002
+    },
+    {
+        "tomada_id": 2,
+        "corrente_mA": 18.66,
+        "tensao_V": 0.89,
+        "tempo_ms": 900003
+    },
+    {
+        "tomada_id": 2,
+        "corrente_mA": 18.66,
+        "tensao_V": 0.89,
+        "tempo_ms": 1200002
+    },
+    {
+        "tomada_id": 2,
+        "corrente_mA": 18.66,
+        "tensao_V": 0.89,
+        "tempo_ms": 1500003
+    },
+    {
+        "tomada_id": 2,
+        "corrente_mA": 18.66,
+        "tensao_V": 0.89,
+        "tempo_ms": 1800002
+    },
+    {
+        "tomada_id": 2,
+        "corrente_mA": 18.66,
+        "tensao_V": 0.89,
+        "tempo_ms": 2100003
+    },
+    {
+        "tomada_id": 2,
+        "corrente_mA": 18.66,
+        "tensao_V": 0.89,
+        "tempo_ms": 2400002
+    },
+    {
+        "tomada_id": 2,
+        "corrente_mA": 18.66,
+        "tensao_V": 0.89,
+        "tempo_ms": 2700002
+    },
+    {
+        "tomada_id": 2,
+        "corrente_mA": 0.00,
+        "tensao_V": 0.00,
+        "tempo_ms": 3000003
+    },
+    {
+        "tomada_id": 2,
+        "corrente_mA": 0.00,
+        "tensao_V": 0.00,
+        "tempo_ms": 3300003
+    },
+    {
+        "tomada_id": 2,
+        "corrente_mA": 0.00,
+        "tensao_V": 0.00,
+        "tempo_ms": 3600003
+    }
+]

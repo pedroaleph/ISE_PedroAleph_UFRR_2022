@@ -1,0 +1,30 @@
+.plug-card-container {
+    display: flex;
+    border: 1px solid #9f9f9f;
+    border-radius: 5px;
+    height: 35px;
+    margin: 5px;
+    width: 80%;
+    justify-content: space-around;
+
+    button {
+        padding: 0 2px;
+        width: 30%;
+    }
+
+    .form-check-input {
+        width: 20%;
+        height: 100%;
+        margin: 0;
+    }
+
+    .form-check-input:checked {
+        background-color: #b5d23b;
+        border: none;
+        box-shadow: none;
+    }
+}
+
+.plug-name {
+    flex: 1;
+}

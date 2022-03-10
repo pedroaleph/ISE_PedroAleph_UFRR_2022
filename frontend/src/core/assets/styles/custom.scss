@@ -1,0 +1,14 @@
+$theme-colors: (
+    "primary": #b5d23b,
+    "gray": #8F8F8F,
+    "danger": #DC2525,
+    "blue": #407BFF,
+    "purple": #aa54b4,
+);
+
+$body-bg: #525252;
+//$body-color: #525252;
+$body-color: #263238;
+//$body-color: #FFF;
+
+@import 'bootstrap/scss/bootstrap.scss';

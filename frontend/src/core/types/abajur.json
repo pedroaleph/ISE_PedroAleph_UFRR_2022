@@ -2,7 +2,7 @@
     {
         "tomada_id": 2,
         "corrente_mA": 0.00,
-        "tensao_V": 0.00,
+        "tensao_V": 5.00,
         "tempo_ms": 2
     },
     {
@@ -62,19 +62,19 @@
     {
         "tomada_id": 2,
         "corrente_mA": 0.00,
-        "tensao_V": 0.00,
+        "tensao_V": 5.00,
         "tempo_ms": 3000003
     },
     {
         "tomada_id": 2,
         "corrente_mA": 0.00,
-        "tensao_V": 0.00,
+        "tensao_V": 5.00,
         "tempo_ms": 3300003
     },
     {
         "tomada_id": 2,
         "corrente_mA": 0.00,
-        "tensao_V": 0.00,
+        "tensao_V": 5.00,
         "tempo_ms": 3600003
     }
 ]
